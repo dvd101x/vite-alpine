@@ -5,6 +5,8 @@ https://vitejs.dev/guide/#trying-vite-online
 
 Based on the vanilla template with added [alpinejs](https://alpinejs.dev/)
 
+Test template https://dvd101x.github.io/vite-alpine
+
 # to start
 
 Run the following commands
