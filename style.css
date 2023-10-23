@@ -52,8 +52,13 @@ h1 {
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
 }
-.logo.vanilla:hover {
-  filter: drop-shadow(0 0 2em #f7df1eaa);
+.logo.alpine{
+  width: 8.9em;
+  object-fit: cover;
+  object-position: left center;
+}
+.logo.alpine:hover {
+  filter: drop-shadow(0 0 2em #4fb1c9);
 }
 
 .card {
