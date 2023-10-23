@@ -9,9 +9,18 @@ Based on the vanilla template with added [alpinejs](https://alpinejs.dev/)
 
 Run the following commands
 
+Install dependencies once:
 ```
 npm install
+```
+Start dev server
+```
 npm run dev
+```
+
+Build a bundle (generated in the dist folder):
+```
+npm run dist
 ```
 
 # how was this made?
