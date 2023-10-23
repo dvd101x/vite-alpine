@@ -3,9 +3,9 @@
 This is another template like
 https://vitejs.dev/guide/#trying-vite-online
 
-Based on the vanilla template with added [alpinejs](https://alpinejs.dev/)
+Open tamplate [from github-pages](https://dvd101x.github.io/vite-alpine)
 
-Test template https://dvd101x.github.io/vite-alpine
+Based on the vanilla template with added [alpinejs](https://alpinejs.dev/)
 
 # to start
 
