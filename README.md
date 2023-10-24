@@ -1,11 +1,8 @@
 # vite-alpine
 
-This is another template like
-https://vitejs.dev/guide/#trying-vite-online
+This is another [template](https://vitejs.dev/guide/#trying-vite-online) based on the vanilla template with added [alpinejs](https://alpinejs.dev/)
 
-Open tamplate [from github-pages](https://dvd101x.github.io/vite-alpine)
-
-Based on the vanilla template with added [alpinejs](https://alpinejs.dev/)
+Test this template [from github-pages](https://dvd101x.github.io/vite-alpine)
 
 # to start
 
