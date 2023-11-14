@@ -1,5 +1,5 @@
 export default {
-  base: '/pages/dist/',
+  base: '/',
   build: {
     chunkSizeWarningLimit: 1024 // kB
   }
