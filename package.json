@@ -1,7 +1,7 @@
 {
   "name": "vite-alpine",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^4.4.5"
+    "vite": "^5.0.12"
   },
   "dependencies": {
-    "alpinejs": "^3.13.2"
+    "alpinejs": "^3.13.3"
   }
 }

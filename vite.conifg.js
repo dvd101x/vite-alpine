@@ -1,5 +1,5 @@
 export default {
-  base: 'https://dvd101x.github.io/vite-alpine/',
+  base: './',
   build: {
     chunkSizeWarningLimit: 1024 // kB
   }
