@@ -1,5 +1,5 @@
 import './style.css';
-import alpineLogo from '/alpine_long.svg';
+import alpineLogo from './alpine_long.svg';
 import viteLogo from '/vite.svg';
 import Alpine from 'alpinejs';
 
