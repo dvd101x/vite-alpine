@@ -9,9 +9,9 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.0.12"
+    "vite": "^5.1.4"
   },
   "dependencies": {
-    "alpinejs": "^3.13.3"
+    "alpinejs": "^3.13.5"
   }
 }
